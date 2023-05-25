@@ -16,6 +16,10 @@ To include the required headers for your Streamlit script, you'll need to instal
 
 After installing these packages, you should be able to import them successfully in your Streamlit script and use the necessary functions and classes.
 
+After all this go to the curent working directory of the app and write this in the cmd/terminal
+
+streamlit run Webb.py
+
 ****************************************************************************************************************************************************
 
 However, if you are encountering import errors for these packages, it could be due to issues with your Python installation. In that case, you may consider reinstalling Python to ensure all standard library modules are available.
